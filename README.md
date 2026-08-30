@@ -22,7 +22,6 @@
 | ✅ | Integrated aimbot — projectile prediction, bone targeting, and silent aim across all Rust weapons |
 | ✅ | Full ESP suite — players, stashes, resources, animals, traps, and supply drops with distance tags |
 | ✅ | Zero-recoil module — per-weapon spray tables with attachment detection and jitter randomization |
-| ✅ | Raid assistance — wall-tier scanner, TC radius overlay, and sulfur cost calculator in one tab |
 | ✅ | Speed and jump modifiers — adjustable run speed multiplier and super-jump height for traversal |
 | ✅ | Config system — save and load multiple profiles for different servers or play styles |
 
